@@ -31,7 +31,7 @@ Aplicación web que presenta un catalogo de pizzas con funcionalidad de carrito 
 
 ## Autor
 
-- [@maxidinamero] (https://github.com/maxidinamero)
+- [@maxidinamero](https://github.com/maxidinamero)
 
 ## License
 
